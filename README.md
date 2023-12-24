@@ -1,0 +1,1 @@
+Telefon numaralarının hangi ülkede bulunduğunu ve hangi hatta dahil olduğunu gösteren kodum. "Phonenumber" kütüphanesini kullanabilmek için önce indirmeniz gerekmektedir. "pip install phonenumbers" yazarak indirebilirsiniz.
