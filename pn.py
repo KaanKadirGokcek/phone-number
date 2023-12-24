@@ -2,7 +2,7 @@ import phonenumbers
 
 #kodu çalıştırmak için phonenumbers kütüphanesi indirilmeli
 
-number1 = '+905533684788'
+number1 = '+905555555'
 
 from phonenumbers import geocoder
 number = phonenumbers.parse(number1)
